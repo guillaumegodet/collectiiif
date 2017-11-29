@@ -8,7 +8,7 @@
 	"seeAlso": [
 		"http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b9011177s"
 	],
-	"description": "Exposition Internationale de Madrid, 1893-94[...], direction générale : Palacio de la Industria y de las Artes, Madrid (Palais de l'Industrie et des Arts) : [affiche] / EG [Eugène Grasset]",
+	"description": "Sélection d'oeuvres d'Eugène Grasset",
 	"metadata": [
 		{
 			"label": "Repository",
@@ -32,15 +32,15 @@
 		},
 		{
 			"label": "Shelfmark",
-			"value": "Bibliothèque nationale de France, département Estampes et photographie, ENT DN-1 (LEMERCIER)-GRAND ROUL"
+			"value": "Bibliothèque nationale de France, département Estampes et photographie"
 		},
 		{
 			"label": "Title",
-			"value": "Exposition Internationale de Madrid, 1893-94[...], direction générale : Palacio de la Industria y de las Artes, Madrid (Palais de l'Industrie et des Arts) : [affiche] / EG [Eugène Grasset]"
+			"value": "Grasset, Eugène-Samuel (1845-1917)"
 		},
 		{
 			"label": "Date",
-			"value": "1894"
+			"value": "189."
 		},
 		{
 			"label": "Language",
