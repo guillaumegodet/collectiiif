@@ -97,14 +97,14 @@
 		{
 			"canvases": [
 				{
-					"@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9011177s/canvas/f1",
+					"@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9011177s/f1",
 					"label": "NP",
 					"height": 11128,
 					"width": 8146,
 					"images": [
 						{
 							"motivation": "sc:painting",
-							"on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9011177s/canvas/f1",
+							"on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9011177s/f1",
 							"resource": {
 								"format": "image/jpeg",
 								"service": {
@@ -133,7 +133,7 @@
 					"images": [
 						{
 							"motivation": "sc:painting",
-							"on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9016905m/canvas/f1",
+							"on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9016905m/f1",
 							"resource": {
 								"format": "image/jpeg",
 								"service": {
@@ -155,14 +155,14 @@
 					"@type": "sc:Canvas"
 				},
 				{
-					"@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9008299m/canvas/f1",
+					"@id": "http://gallica.bnf.fr/ark:/12148/btv1b9008299m/f1",
 					"label": "NP",
 					"height": 5359,
 					"width": 3031,
 					"images": [
 						{
 							"motivation": "sc:painting",
-							"on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b9008299m/canvas/f1",
+							"on": "http://gallica.bnf.fr/ark:/12148/btv1b9008299m/f1",
 							"resource": {
 								"format": "image/jpeg",
 								"service": {
